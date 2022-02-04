@@ -1,3 +1,2 @@
 Adding a new file.
-i'm a brand new feature with branch - g
-this is a master file...
+new feature added, please test file.
