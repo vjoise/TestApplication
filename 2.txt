@@ -1,1 +1,2 @@
 Adding a new file.
+new feature added, please test file.
